@@ -8,6 +8,6 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
 
 [[headers]]
-  for = "/payload/*"
+  for = "/bundle/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
