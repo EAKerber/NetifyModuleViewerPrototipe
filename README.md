@@ -1,5 +1,13 @@
-# Netify Module Viewer Prototype
+# Netlify Module Viewer Prototype
 
-Repositório de publicação do protótipo estático do visualizador de módulos.
+Protótipo estático de visualização 360° de módulos, preparado para publicação no Netlify.
 
-O conteúdo implantável será mantido em uma branch dedicada e submetido por pull request.
+## Estrutura
+
+- `index.html`: carregador do visualizador;
+- `bundle/`: payload estático validado do protótipo;
+- `netlify.toml`: configuração de publicação e cache.
+
+## Publicação
+
+Importe este repositório no Netlify usando a branch `main`, sem comando de build e com `.` como diretório de publicação.
