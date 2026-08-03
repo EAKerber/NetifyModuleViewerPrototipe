@@ -1,1 +1,0 @@
-Exact payload synchronization completed and locally validated against the original HTML source. This marker belongs only to the deployment branch.

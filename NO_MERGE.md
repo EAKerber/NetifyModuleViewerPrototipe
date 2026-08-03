@@ -1,1 +1,0 @@
-This branch must not be merged automatically. Review is required.

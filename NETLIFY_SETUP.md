@@ -1,9 +1,9 @@
-# Netlify setup
+# Configuração do Netlify
 
-Import this GitHub repository into Netlify and use:
+Importe `EAKerber/NetifyModuleViewerPrototipe` no Netlify com estas opções:
 
-- Production branch: `agent/netlify-deploy` while the pull request remains unmerged
-- Build command: leave empty
+- Production branch: `main`
+- Build command: vazio
 - Publish directory: `.`
 
-The viewer is a static site. No package installation or server-side build is required.
+O projeto é totalmente estático e não requer instalação de dependências nem build no servidor.
